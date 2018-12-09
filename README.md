@@ -36,3 +36,7 @@ The links below are of the career pages not the main company website. Some of th
 
 ## Y - \#
 
+## Inspired from
+
+Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+ 
