@@ -12,8 +12,8 @@ The links below are of the career pages not the main company website. Some of th
 - [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, Javascript, NodeJs, ReactJs, Typescript
 
 ## D - F
-- [Envato](https://envato.com/careers/) | Melbourne, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs, 
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
+- [Envato](https://envato.com/careers/) | Melbourne, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
 
 ## G - I
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney CBD, Sydney; Perth, Perth | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
