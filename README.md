@@ -20,7 +20,6 @@ The links below are of the career pages not the main company website. Some of th
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C 
 
 ## J - L
-- [Lendi](https://lendi.recruiterbox.com/) | Sydney CBD, Sydney | Java, Scala, NodeJs, Javascript, SQL, Python
 
 ## M - O
 
@@ -39,4 +38,12 @@ The links below are of the career pages not the main company website. Some of th
 ## Inspired from
 
 Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
+## PRs welcome
+
+If you know of any company that provides work visa sponsorship for tech roles please open a PR to add them. Thanks!
+
+## Disclaimer
+
+Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take responsibility of these companies sponsoring employees. If you think any company above should be removed from the list please send a PR.
  
