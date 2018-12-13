@@ -32,10 +32,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
-<<<<<<< HEAD
-=======
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities/all/all/Sydney/) | Sydney CBD, Sydney | C#, C++, Python
->>>>>>> update with main repo.
 
 ## P - R
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
