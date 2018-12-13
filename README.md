@@ -18,12 +18,12 @@ The links below are of the career pages not the main company website. Some of th
 ## G - I
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney CBD, Sydney; Perth, Perth | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C 
-- [IRESS](https://www.iress.com/au/company/join-us/) | Sydney, Sydney; Melbourne, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
+- [IRESS](https://www.iress.com/au/company/join-us/) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
 
 ## M - O
-- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney, Sydney | Database, SQL, Hadoop, Python, NoSQL
+- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
 
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
