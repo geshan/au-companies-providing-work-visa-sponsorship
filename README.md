@@ -18,8 +18,9 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [CSIRO's Data61](https://jobs.csiro.au/search/?q=data61&locationsearch=) | Perth CBD, Perth; Brisbane CBD; Melbourne CBD, Melbourne; Canberra CBD; Sydney CBD, Sydney | Bigdata, R, Python, JavaScript, C++, Machine Learning, IOT, Drones
 ## D - F
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
-- [Eclipse Trading](https://www.eclipsetrading.com/careers/) | Level 4 151 Macquarie Street, Sydney | C++
-- [Envato](https://envato.com/careers/) | Melbourne, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
+- [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, Javascript, Nodejs, React, Android, Python, C#, Swift
+- [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, React
+- [Expert360](https://expert360.com/company/careers) |  Melbourne CBD, Melbourne; Sydney CBD, Sydney | Elixir, Javascript, React, GraphQL, Elasticsearch 
 
 ## G - I
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
