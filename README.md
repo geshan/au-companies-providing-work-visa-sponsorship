@@ -24,7 +24,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## G - I
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney CBD, Sydney; Perth, Perth | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C 
-- [IRESS](https://www.iress.com/au/company/join-us/) | Sydney, Sydney; Melbourne, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
+- [IRESS](https://www.iress.com/au/company/join-us/) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, Javascript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
@@ -32,7 +32,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, Javascript, AWS
 
 ## M - O
-- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney, Sydney | Database, SQL, Hadoop, Python, NoSQL
+- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
 
 ## P - R
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
