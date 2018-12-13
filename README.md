@@ -32,7 +32,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, Javascript, AWS
 
 ## M - O
-- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | 100 Barangaroo Avenue, Sydney | Database, SQL, Hadoop, Python, NoSQL
+- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney, Sydney | Database, SQL, Hadoop, Python, NoSQL
 
 ## P - R
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
