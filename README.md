@@ -37,6 +37,7 @@ The links below are of the career pages not the main company website. Some of th
 ## V - X
 
 ## Y - \#
+- [Zendesk](https://www.zendesk.com/jobs/melbourne/) | Melbourne CBD, Melbourne | Ruby, Scala, Python, Go, PHP, AWS, GCP, MySQL, Redis, Kafka, ELK, Cassandra, Memcache, Kubernetes, Hadoop, Chef, Terraform
 
 ## Inspired from
 
@@ -48,5 +49,5 @@ If you know of any company that provides work visa sponsorship for tech roles pl
 
 ## Disclaimer
 
-Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take responsibility of these companies sponsoring employees. If you think any company above should be removed from the list please send a PR.
+Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take responsibility of these companies sponsoring employees. Some companies only sponsor senior roles. If you think any company above should be removed from the list please send a PR. 
  
