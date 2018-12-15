@@ -36,6 +36,7 @@ The links below are of the career pages not the main company website. Some of th
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney CBD, Sydney | Javascript, NodeJs, VueJs, Ruby, GoLang, Java
 
 ## V - X
+- [UiPro](https://uipro.com) | Perth | C++
 
 ## Y - \#
 
