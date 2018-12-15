@@ -26,6 +26,7 @@ The links below are of the career pages not the main company website. Some of th
 
 ## M - O
 - [Oganjen](https://ogangen.com) | Melbourne | JavaScript, SQL
+- [Miji](http://miji.org) | Blacktown, Sydney | Deals with JS
 
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
