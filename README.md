@@ -25,6 +25,7 @@ The links below are of the career pages not the main company website. Some of th
 - [Lendi](https://lendi.recruiterbox.com/) | Sydney CBD, Sydney | Java, Scala, NodeJs, Javascript, SQL, Python
 
 ## M - O
+- [Oganjen](https://ogangen.com) | Melbourne | JavaScript, SQL
 
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
