@@ -36,6 +36,7 @@ The links below are of the career pages not the main company website. Some of th
 - [Tyro](https://www.tyro.com/careers/) | Sydney CBD, Sydney | Java, Scala, Kotlin, Kafka, Spark, AWS
 
 ## V - X
+- [WiseTech Global](https://www.wisetechglobal.com/careers/current-openings) | Alexandria, Sydney | C#, .net, Javascirpt, Android, Sharepoint
 
 ## Y - \#
 - [Zendesk](https://www.zendesk.com/jobs/melbourne/) | Melbourne CBD, Melbourne | Ruby, Scala, Python, Go, PHP, AWS, GCP, MySQL, Redis, Kafka, ELK, Cassandra, Memcache, Kubernetes, Hadoop, Chef, Terraform
