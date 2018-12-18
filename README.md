@@ -28,6 +28,7 @@ The links below are of the career pages not the main company website. Some of th
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
+- [Optiver](https://www.optiver.com/ap/en/job-opportunities/) | C#, C++, Python
 
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
