@@ -28,6 +28,7 @@ The links below are of the career pages not the main company website. Some of th
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
+- [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | React-Native, React, Javascript, Aws, Express, GraphQL
 
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
