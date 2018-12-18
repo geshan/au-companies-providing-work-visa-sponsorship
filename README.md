@@ -23,6 +23,7 @@ The links below are of the career pages not the main company website. Some of th
 - [IRESS](https://www.iress.com/au/company/join-us/) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
+- [Lendi](https://lendi.recruiterbox.com/) | Sydney CBD, Sydney | Java, Scala, NodeJs, Javascript, SQL, Python
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
