@@ -30,6 +30,7 @@ The links below are of the career pages not the main company website. Some of th
 ## P - R
 - [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
 - [Quantium](https://www.quantium.com/careers/) | Sydney CBD, Sydney; Melbourne, Melbourne | Java, Scala, Node js, postgres
+- [Rockend](https://www.rockend.com/careers) | St Leonards, Sydney | C#, ASP.NET, Javascript, Angular 
 
 ## S - U
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney CBD, Sydney | GoLang, C++, Javascript, NodeJs
