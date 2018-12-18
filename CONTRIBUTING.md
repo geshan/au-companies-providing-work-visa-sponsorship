@@ -11,7 +11,7 @@ Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/COD
 Locations **must** be suburb, city names that are separated by a `/`, `;`, or `&` without Australia. Locations should be formatted like so:
 
 ```
-Sydney CBD, Sydney; Melbourne, Melbourne; Perth, Perth
+Sydney CBD, Sydney; Melbourne CBD, Melbourne; Perth CBD, Perth
 ```
 
 Good example:
@@ -30,6 +30,7 @@ Pull requests will be accepted if they follow the [format](#format) and:
 1. You submit the company with a website
 1. You submit the company with a location
 1. You submit the company with a brief tech stack
+1. Please do not suffix frontend Js frameworks with Js, so it will be React not ReactJs
 
 ## Removals
 1. The pull request adheres to the repository's
