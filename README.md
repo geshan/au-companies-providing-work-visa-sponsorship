@@ -34,6 +34,7 @@ The links below are of the career pages not the main company website. Some of th
 ## S - U
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney CBD, Sydney | GoLang, C++, Javascript, NodeJs
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney CBD, Sydney | Javascript, NodeJs, VueJs, Ruby, GoLang, Java
+- [SwitchMedia](https://www.switch.tv/careers/) | Sydney CBD, Sydney | PHP, Javascript, Go
 - [Tyro](https://www.tyro.com/careers/) | Sydney CBD, Sydney | Java, Scala, Kotlin, Kafka, Spark, AWS
 
 ## V - X
