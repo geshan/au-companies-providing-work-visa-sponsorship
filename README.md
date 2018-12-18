@@ -3,6 +3,7 @@
 Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email.
 
+---
 
 ## A - C
 - [AirTasker](https://www.airtasker.com/careers/) | Sydney CBD, Sydney |  Ruby, Ruby on Rails, NodeJs, Javascript, React, Java, Python or Golang
@@ -47,7 +48,6 @@ The links below are of the career pages not the main company website. Some of th
 ## Y - \#
 - [Zendesk](https://www.zendesk.com/jobs/melbourne/) | Melbourne CBD, Melbourne | Ruby, Scala, Python, Go, PHP, AWS, GCP, MySQL, Redis, Kafka, ELK, Cassandra, Memcache, Kubernetes, Hadoop, Chef, Terraform
 
-
 ## Inspired from
 
 Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
@@ -61,3 +61,4 @@ If you know of any company that provides work visa sponsorship for tech roles pl
 Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take any responsibility of these companies sponsoring employees. 
 
 Some companies only sponsor senior roles. Some of the companies have stated they `can` sponsor. So it will depend on how you would approach them, the role and your level of skills and experience. If you think any company above should be removed from the list please send a PR.
+ 
