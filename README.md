@@ -15,7 +15,8 @@ The links below are of the career pages not the main company website. Some of th
 ## D - F
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
 - [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, Javascript, Nodejs, React, Android, Python, C#, Swift
-- [Envato](https://envato.com/careers/) | Melbourne, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
+- [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
+- [Expert360](https://expert360.com/company/careers) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Elixir, Javascript, React, GraphQL, Elasticsearch 
 
 ## G - I
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney CBD, Sydney; Perth, Perth | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
