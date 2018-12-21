@@ -8,7 +8,7 @@ Thanks for contributing! Please adhere to the [Contributor Code of Conduct](/COD
 - [Company or team name within company](https://jobspage) | locations | known tech stack
 ```
 
-Locations **must** be suburb, city names that are separated by a `/`, `;`, or `&` without Australia. Locations should be formatted like so alphabetically by city so Melbourne then Sydney not the other way round :) :
+Locations **must** be suburb, city names that are separated by a `/`, `;`, or `&` without Australia. Locations should be formatted like below and alphabetically sorted by city so Melbourne then Sydney not the other way round :) :
 
 ```
 Melbourne CBD, Melbourne; Perth CBD, Perth; Sydney CBD, Sydney
