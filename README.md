@@ -16,14 +16,14 @@ The links below are of the career pages not the main company website. Some of th
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
 - [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, Javascript, Nodejs, React, Android, Python, C#, Swift
 - [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
-- [Expert360](https://expert360.com/company/careers) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Elixir, Javascript, React, GraphQL, Elasticsearch 
+- [Expert360](https://expert360.com/company/careers) |  Melbourne CBD, Melbourne; Sydney CBD, Sydney | Elixir, Javascript, React, GraphQL, Elasticsearch 
 
 ## G - I
-- [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney CBD, Sydney; Perth, Perth | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
+- [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
 - [Healthshare](http://www.healthsharedigital.com/careers/) | Bondi Junction, Sydney | Python, Javascript, React
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
 - [HireUp](https://hireup.com.au/) | Greenwich, Sydney | NodeJs, Javascript, React, Mongo DB
-- [IRESS](https://www.iress.com/au/company/join-us/) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
+- [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, Javascript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
@@ -34,8 +34,8 @@ The links below are of the career pages not the main company website. Some of th
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities/all/all/Sydney/) | Sydney CBD, Sydney | C#, C++, Python
 
 ## P - R
-- [Qwilr](https://qwilr.com/jobs/) | Sydney CBD, Sydney; Melbourne, Melbourne | MongoDB, Angular, React, Javascript, Nodejs
-- [Quantium](https://www.quantium.com/careers/) | Sydney CBD, Sydney; Melbourne, Melbourne | Java, Scala, Node js, postgres
+- [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, Angular, React, Javascript, Nodejs
+- [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, Node js, postgres
 - [REA Group](https://www.rea-group.com/careers/) | Dulwich, Adelaide; Fortitude Valley, Brisbane; Fyshwick, Canberra; Richmond, Melbourne; Subiaco, Perth; Sydney CBD, Sydney | Scala, Ruby, Javascript, NodeJs, React, Docker, Elasticsearch, AWS, Big Query
 - [Red Ant](https://redant.com.au/jobs/) | Sydney CBD, Sydney | Ruby, Ruby on Rails, Javascript, Angular
 - [Rockend](https://www.rockend.com/careers) | St Leonards, Sydney | C#, ASP.NET, Javascript, Angular 
