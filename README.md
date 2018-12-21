@@ -57,6 +57,10 @@ The links below are of the career pages not the main company website. Some of th
 
 Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
+## Before applying for jobs
+
+Before applying for (tech) jobs in Australia, please do learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires least 2 years relevant work experience.
+
 ## PRs welcome
 
 If you know of any company that provides work visa sponsorship for tech roles please open a PR to add them. Thanks!
