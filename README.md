@@ -34,6 +34,7 @@ The links below are of the career pages not the main company website. Some of th
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities/all/all/Sydney/) | Sydney CBD, Sydney | C#, C++, Python
 
 ## P - R
+- [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
 - [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, Angular, React, Javascript, Nodejs
 - [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, Node js, postgres
 - [REA Group](https://www.rea-group.com/careers/) | Dulwich, Adelaide; Fortitude Valley, Brisbane; Fyshwick, Canberra; Richmond, Melbourne; Subiaco, Perth; Sydney CBD, Sydney | Scala, Ruby, Javascript, NodeJs, React, Docker, Elasticsearch, AWS, Big Query
