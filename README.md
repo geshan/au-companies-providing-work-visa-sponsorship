@@ -1,7 +1,11 @@
 # Australian companies providing work visa sponsorship
 
 Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
-The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email. If you work for a company in Australia that provices visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32).
+The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email. 
+
+If you work for a company in Australia that provices visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32). 
+
+A searchable sort-able and group-able version of the list of companies below is avaiable on [air table](https://airtable.com/shrgB7IeiaGmIkGug/tblimdYn6HhmTYmD3).
 
 ---
 
