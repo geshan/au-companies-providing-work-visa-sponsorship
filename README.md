@@ -11,15 +11,15 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## A - C
 - [AirTasker](https://www.airtasker.com/careers/) | Sydney CBD, Sydney |  Ruby, Ruby on Rails, NodeJs, Javascript, React, Java, Python or Golang
-- [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney CBD, Sydney | Java, NodeJs, Javascript, ReactJs
-- [BCG Digital Ventures](https://careers.bcgdv.com/locations/sydney/) | Sydney CBD, Sydney | JavaScript, AngularJS, ReactJS, Hadoop, NoSQL
+- [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney CBD, Sydney | Java, NodeJs, Javascript, React
+- [BCG Digital Ventures](https://careers.bcgdv.com/locations/sydney/) | Sydney CBD, Sydney | JavaScript, Angular, React, Hadoop, NoSQL
 - [BigCommerce](https://www.bigcommerce.com/careers/) | Sydney CBD, Sydney |  Ruby, PHP, Javascript, Puppet
-- [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, Javascript, NodeJs, ReactJs, Typescript
+- [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, Javascript, NodeJs, React, Typescript
 
 ## D - F
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
 - [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, Javascript, Nodejs, React, Android, Python, C#, Swift
-- [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
+- [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, React
 - [Expert360](https://expert360.com/company/careers) |  Melbourne CBD, Melbourne; Sydney CBD, Sydney | Elixir, Javascript, React, GraphQL, Elasticsearch 
 
 ## G - I
@@ -40,11 +40,11 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## P - R
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
-- [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, Angular, React, Javascript, Nodejs
-- [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, Node js, postgres
+- [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, Javascript, NodeJs, Angular, ReactJs
+- [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, Javascript, NodeJs, postgres
 - [REA Group](https://www.rea-group.com/careers/) | Dulwich, Adelaide; Fortitude Valley, Brisbane; Fyshwick, Canberra; Richmond, Melbourne; Subiaco, Perth; Sydney CBD, Sydney | Scala, Ruby, Javascript, NodeJs, React, Docker, Elasticsearch, AWS, Big Query
 - [Red Ant](https://redant.com.au/jobs/) | Sydney CBD, Sydney | Ruby, Ruby on Rails, Javascript, Angular
-- [Rockend](https://www.rockend.com/careers) | St Leonards, Sydney | C#, ASP.NET, Javascript, Angular 
+- [Rockend](https://www.rockend.com/careers) | St Leonards, Sydney | C#, ASP.NET, Javascript, Angular
 
 ## S - U
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney CBD, Sydney | GoLang, C++, Javascript, NodeJs
@@ -58,6 +58,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## Y - \#
 - [Zendesk](https://www.zendesk.com/jobs/melbourne/) | Melbourne CBD, Melbourne | Ruby, Scala, Python, Go, PHP, AWS, GCP, MySQL, Redis, Kafka, ELK, Cassandra, Memcache, Kubernetes, Hadoop, Chef, Terraform
+- [Zip](https://zip.co/careers) | Sydney CBD, Sydney | .net, Javascript, NodeJs, Angular, Python, AWS
 
 ## Inspired from
 
