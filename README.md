@@ -1,7 +1,7 @@
 # Australian companies providing work visa sponsorship
 
 Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
-The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email. 
+The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email for certian roles and the "right" candidates. 
 
 If you work for a company in Australia that provices visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32). 
 
@@ -32,6 +32,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## J - L
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, Javascript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
 - [Lendi](https://lendi.recruiterbox.com/) | Sydney CBD, Sydney | Java, Scala, NodeJs, Javascript, SQL, Python
+- [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, Javascript, AWS
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
@@ -72,7 +73,7 @@ If you know of any company that provides work visa sponsorship for tech roles pl
 
 ## Disclaimer
 
-Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take any responsibility of these companies sponsoring employees. 
+Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take any responsibility of these companies sponsoring employees or are still doing so. 
 
 Some companies only sponsor senior roles. Some of the companies have stated they `can` sponsor. So it will depend on how you would approach them, the role and your level of skills and experience. If you think any company above should be removed from the list please send a PR.
  
