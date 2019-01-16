@@ -22,9 +22,11 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Envato](https://envato.com/careers/) | Melbourne, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, ReachJs
 
 ## G - I
-- [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Sydney CBD, Sydney; Perth, Perth | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
-- [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C 
-- [IRESS](https://www.iress.com/au/company/join-us/) | Sydney CBD, Sydney; Melbourne CBD, Melbourne | Reactjs, Python, JavaScript, TypeScript, AWS
+- [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
+- [Healthshare](http://www.healthsharedigital.com/careers/) | Bondi Junction, Sydney | Python, Javascript, React
+- [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
+- [HireUp](https://hireup.com.au/) | Greenwich, Sydney | NodeJs, Javascript, React, Mongo DB
+- [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, Javascript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
@@ -33,6 +35,10 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
+<<<<<<< HEAD
+=======
+- [Optiver](https://www.optiver.com/ap/en/job-opportunities/all/all/Sydney/) | Sydney CBD, Sydney | C#, C++, Python
+>>>>>>> update with main repo.
 
 ## P - R
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
