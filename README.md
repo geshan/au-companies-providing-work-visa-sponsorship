@@ -15,6 +15,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [BCG Digital Ventures](https://careers.bcgdv.com/locations/sydney/) | Sydney CBD, Sydney | JavaScript, Angular, React, Hadoop, NoSQL
 - [BigCommerce](https://www.bigcommerce.com/careers/) | Sydney CBD, Sydney |  Ruby, PHP, Javascript, Puppet
 - [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, Javascript, NodeJs, React, Typescript
+- [CSIRO's Data61](https://jobs.csiro.au/search/?q=data61&locationsearch=) | Perth CBD, Perth; Brisbane CBD; Melbourne CBD, Melbourne; Canberra CBD; Sydney CBD, Sydney | Bigdata, R, Python, JavaScript, C++, Machine Learning, IOT, Drones
 
 ## D - F
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
