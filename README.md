@@ -37,6 +37,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## M - O
 - [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
+- [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | Javascript, React, React Native, NodeJs, Express, GraphQL, AWS
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities/all/all/Sydney/) | Sydney CBD, Sydney | C#, C++, Python
 
 ## P - R
