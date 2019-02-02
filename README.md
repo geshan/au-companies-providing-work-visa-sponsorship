@@ -25,6 +25,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, React
 - [Expedia Group](https://lifeatexpedia.com/jobs/job?jobid=R-37606) | Brisbane City, Brisbane | Javascript, AWS, Java, React, Node
 - [Expert360](https://expert360.com/company/careers) |  Melbourne CBD, Melbourne; Sydney CBD, Sydney | Elixir, Javascript, React, GraphQL, Elasticsearch 
+- [Finder](https://www.finder.com.au/careers) |  Sydney CBD, Sydney | PHP, JavaScript, NodeJs 
 
 ## G - I
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
