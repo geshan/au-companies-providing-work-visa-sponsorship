@@ -22,6 +22,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## D - F
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, Javascript, Android, SQL
 - [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, Javascript, Nodejs, React, Android, Python, C#, Swift
+- [Elmo](https://elmosoftware.com.au/jobs/) | Sydney CBD, Sydney | PHP, .net, Javascript, Angular, AWS
 - [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, React
 - [Expedia Group](https://lifeatexpedia.com/jobs?location=Australia) | Brisbane City, Brisbane | Javascript, AWS, Java, React, Node
 - [Expert360](https://expert360.com/company/careers) |  Melbourne CBD, Melbourne; Sydney CBD, Sydney | Elixir, Javascript, React, GraphQL, Elasticsearch 
