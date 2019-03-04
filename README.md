@@ -47,6 +47,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities/all/all/Sydney/) | Sydney CBD, Sydney | C#, C++, Python
 
 ## P - R
+- [Papercut Software](https://www.papercut.com/about/careers/) | Camberwell, Melbourne | Java, Go, Javascript, GCP
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
 - [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, Javascript, NodeJs, Angular, ReactJs
 - [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, Javascript, NodeJs, postgres
