@@ -36,6 +36,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
+- [Koala](https://www.linkedin.com/company/koala-mattress/jobs/) | Alexandria, Sydney | Go, PHP, Javascript, AWS
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, Javascript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
 - [LegalVision](https://legalvision.com.au/careers/) | Sydney CBD, Sydney | PHP, Laravel, Javascript, AWS
 - [Lendi](https://lendi.recruiterbox.com/) | Sydney CBD, Sydney | Java, Scala, NodeJs, Javascript, SQL, Python
