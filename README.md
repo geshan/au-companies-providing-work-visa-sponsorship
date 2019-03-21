@@ -60,6 +60,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney CBD, Sydney | GoLang, C++, Javascript, NodeJs
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney CBD, Sydney | Javascript, Typescript, NodeJs, Vue, Ruby, GoLang, Java
 - [Spaceship](https://www.spaceship.com.au/careers) | Sydney CBD, Sydney | Go, Javascript, React
+- [Split Payments](https://www.splitpayments.com.au/careers/) | Porter Street, Byron Bay | Ruby, Ruby on Rails, Javascript, Postgres, Redis, Sidekiq, AWS
 - [SwitchMedia](https://www.switch.tv/careers/) | Sydney CBD, Sydney | PHP, Javascript, Go
 - [Tyro](https://www.tyro.com/careers/) | Sydney CBD, Sydney | Java, Scala, Kotlin, Kafka, Spark, AWS
 
