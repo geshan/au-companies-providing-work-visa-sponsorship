@@ -49,6 +49,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## P - R
 - [Papercut Software](https://www.papercut.com/about/careers/) | Camberwell, Melbourne | Java, Go, Javascript, GCP
+- [Pragmateam](https://pragma.team/talent#apply) | Sydney CBD, Sydney | Javascript, NodeJs, Angular, React
 - [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | Javascript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
 - [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, Javascript, NodeJs, Angular, ReactJs
 - [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, Javascript, NodeJs, postgres
