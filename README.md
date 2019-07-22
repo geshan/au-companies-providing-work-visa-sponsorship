@@ -33,7 +33,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
 - [Healthshare](http://www.healthsharedigital.com/careers/) | Bondi Junction, Sydney | Python, Javascript, React
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
-- [HireUp](https://hireup.com.au/) | Greenwich, Sydney | NodeJs, Javascript, React, Mongo DB
+- [HireUp](https://hireup.com.au/careers/) | Greenwich, Sydney | NodeJs, Javascript, React, Mongo DB
 - [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
