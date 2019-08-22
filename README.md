@@ -31,12 +31,14 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## G - I
 - [GlamCorner](https://www.glamcorner.com.au/opportunities) | Alexandria, Sydney | Ruby, Javascript, Typescript, React, Docker, Jenkins, AWS, MySQL, Redis, PHP
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
-- [Healthshare](http://www.healthsharedigital.com/careers/) | Bondi Junction, Sydney | Python, Javascript, React
+- [Healthshare](https://www.healthsharedigital.com/company/careers/) | Bondi Junction, Sydney | Python, Javascript, React
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
 - [HireUp](https://hireup.com.au/careers/) | Greenwich, Sydney | NodeJs, Javascript, React, Mongo DB
 - [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
 
 ## J - L
+- [JXT Global](https://www.jxt.com.au/join-us) | Sydney CBD, Sydney | .NET, C#, React, Angular, AWS
+- [Kayo Sports](https://www.linkedin.com/company/kayo-sports/jobs/) | Artamon, Sydney | Javascript, Node.Js, React.Js, Express.js 
 - [Koala](https://www.linkedin.com/company/koala-mattress/jobs/) | Alexandria, Sydney | Go, PHP, Javascript, AWS
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, Javascript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
 - [LegalVision](https://legalvision.com.au/careers/) | Sydney CBD, Sydney | PHP, Laravel, Javascript, AWS
