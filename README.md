@@ -35,6 +35,8 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
 - [HireUp](https://hireup.com.au/careers/) | Greenwich, Sydney | NodeJs, Javascript, React, Mongo DB
 - [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
+- [Isentia](https://www.isentia.com/careers/) | Sydney CBD, Sydney; Melbourne CBD | Nodejs, Angularjs, Python, AWS, Docker 
+
 
 ## J - L
 - [JXT Global](https://www.jxt.com.au/join-us) | Sydney CBD, Sydney | .NET, C#, React, Angular, AWS
