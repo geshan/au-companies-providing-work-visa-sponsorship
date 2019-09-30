@@ -91,11 +91,13 @@ Please do have a look at the [official list](https://immi.homeaffairs.gov.au/vis
 
 ## PRs welcome
 
-If you know of any company that provides work visa sponsorship for tech roles please open a PR to add them. Thanks!
+If you know of any company that provides work visa sponsorship for tech roles please open a PR to add it. 
+
+Starring the repo is highly recommended :) Thanks!
 
 ## Say Thanks!
 
-If you liked this repo/list please don't forget to [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/geshan) :)
+If you liked this repo/list please don't hesitate to [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/geshan) :)
 
 ## Disclaimer
 
