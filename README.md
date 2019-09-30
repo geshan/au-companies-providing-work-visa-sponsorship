@@ -87,7 +87,7 @@ Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiri
 
 Before applying for (tech) jobs in Australia, please do learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires least 2 years relevant work experience.
 
-Please do have a look at the [official list](https://archive.homeaffairs.gov.au/trav/work/work/skills-assessment-and-assessing-authorities/skilled-occupations-lists/combined-stsol-mltssl) of skilled occupations to verify that your occupation is in that list. For example, `digital marketing` is not in that list. An easy way to find tech related occupation is search for "ACS" on that page because all tech occupations would be accessed by Australian Computer Society [(ACS)](https://www.acs.org.au/).
+Please do have a look at the [official list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) of skilled occupations to verify that your occupation is in that list. For example, `digital marketing` is not in that list. An easy way to find tech related occupation is search for "ACS" on that page because all tech occupations would be accessed by Australian Computer Society [(ACS)](https://www.acs.org.au/).
 
 ## PRs welcome
 
