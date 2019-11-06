@@ -95,10 +95,6 @@ If you know of any company that provides work visa sponsorship for tech roles pl
 
 Starring the repo is highly recommended :) Thanks!
 
-## Say Thanks!
-
-If you liked this repo/list please don't hesitate to [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/geshan) :)
-
 ## Disclaimer
 
 Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take any responsibility of these companies sponsoring employees or are still doing so. 
