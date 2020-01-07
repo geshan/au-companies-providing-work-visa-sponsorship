@@ -16,6 +16,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney CBD, Sydney | Java, NodeJs, Javascript, React
 - [BCG Digital Ventures](https://careers.bcgdv.com/locations/sydney/) | Sydney CBD, Sydney | JavaScript, Angular, React, Hadoop, NoSQL
 - [BigCommerce](https://www.bigcommerce.com/careers/) | Sydney CBD, Sydney |  Ruby, PHP, Javascript, Puppet
+- [Brighte](https://brighte.com.au/careers/) | Sydney CBD, Sydney | PHP, MYSQL, Javascript, AWS
 - [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, Javascript, NodeJs, React, Typescript
 - [ClipChamp](https://clipchamp.com/en/company/careers) | Fortitude Valley, Brisbane | Javascript, Typescript, Angular, React, Python, C
 - [CSIRO's Data61](https://jobs.csiro.au/search/?q=data61&locationsearch=) | Brisbane CBD, Brisbane; Canberra CBD, Canberra; Melbourne CBD, Melbourne; Perth CBD, Perth; Sydney CBD, Sydney | Bigdata, C++, Drones, IOT, JavaScript, Machine Learning, Python, R 
