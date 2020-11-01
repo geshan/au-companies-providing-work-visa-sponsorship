@@ -88,6 +88,10 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
+## Scrolled this far, good!
+
+If you have come this far you are looking for tech jobs in Australia. Lucky for you, check [AU Tech Jobs](https://app.autechjobs.ml) for tech jobs in Australia from 50+ countries with a focus on work visa sponsorship.
+
 ## Before applying for jobs
 
 Before applying for (tech) jobs in Australia, please do learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires at least 2 years relevant work experience.
