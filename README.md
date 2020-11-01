@@ -92,6 +92,8 @@ Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiri
 
 If you have come this far you are looking for tech jobs in Australia. Lucky for you, check [AU Tech Jobs](https://app.autechjobs.ml) for tech jobs in Australia from 50+ countries with a focus on work visa sponsorship.
 
+If you are looking for tech jobs to relocate to other parts of the world (especially Europe), please do visit [Relocate.me](https://relocate.me). It is a great platform for people looking to relocate with jobs. The country guides in Relocate.me with relocaiton tips and expat stories are very useful.
+
 ## Before applying for jobs
 
 Before applying for (tech) jobs in Australia, please do learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires at least 2 years relevant work experience.
