@@ -13,6 +13,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## A - C
 - [AirTasker](https://www.airtasker.com/careers/) | Sydney CBD, Sydney |  Ruby, Ruby on Rails, NodeJs, Javascript, React, Java, Python or Golang
+- [Aiven](https://aiven.io/careers) | Sydney CBD, Sydney | Python, PostgreSQL, MySQL, Elasticsearch, Cassandra, Grafana, InfluxDB, Redis, Kafka
 - [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney CBD, Sydney | Java, NodeJs, Javascript, React
 - [BCG Digital Ventures](https://careers.bcgdv.com/locations/sydney/) | Sydney CBD, Sydney | JavaScript, Angular, React, Hadoop, NoSQL
 - [BigCommerce](https://www.bigcommerce.com/careers/) | Sydney CBD, Sydney |  Ruby, PHP, Javascript, Puppet
