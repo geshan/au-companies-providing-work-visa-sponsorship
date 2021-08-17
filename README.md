@@ -36,6 +36,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## G - I
 - [GlamCorner](https://www.glamcorner.com.au/opportunities) | Alexandria, Sydney | Ruby, Javascript, Typescript, React, Docker, Jenkins, AWS, MySQL, Redis, PHP
+- [Harrison.Ai](https://www.harrison.ai/careers) | Sydney CBD, Sydney | Javascript, Typescript, Python, AWS, React
 - [HeadUp Labs](https://www.headuplabs.com/careers) | Balaclava, Victoria | C#, Azure, Cosmos Db, Javascript, React Native, Typescript, Azure Functions 
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
 - [Healthshare](https://www.healthsharedigital.com/company/careers/) | Bondi Junction, Sydney | Python, Javascript, React
