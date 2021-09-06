@@ -17,7 +17,7 @@ Melbourne CBD, Melbourne; Perth CBD, Perth; Sydney CBD, Sydney
 Good example:
 
 ```
-- [MyCompany](https://example.com/jobs) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | PHP, Javascript, Android, SQL
+- [MyCompany](https://example.com/jobs) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | PHP, JavaScript, Android, SQL
 ```
 
 Pull requests will be accepted if they follow the [format](#format) and:
