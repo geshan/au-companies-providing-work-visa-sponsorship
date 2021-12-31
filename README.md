@@ -3,7 +3,9 @@
 Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email for **certian tech roles** and the **"right"** candidates. 
 
-The Australian Immigration department needs to play serious catchup with the UK Immigration department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tire 2](https://www.gov.uk/tier-2-general) visa is the skilled job one.
+The Australian Immigration department needs to play serious catchup with the UK Immigration department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tire 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
+
+Update Jan-2022, a [long list of 70 pages PDF](https://www.righttoknow.org.au/request/6369/response/17729/attach/4/fa%20200600144%20documents%20released.pdf?cookie_passthrough=1) has been found which lists 1000s of companies that have sponsored employees in temporary work visa on [Right To know](https://www.righttoknow.org.au/request/list_of_accredited_sponsors). This can be a great list to do a reverse job search. Still, some cpompanies might have stopped doing work visa in the past 2 years because of the pandemic.
 
 If you work for a company in Australia that provides visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32). 
 
