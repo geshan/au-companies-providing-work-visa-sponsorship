@@ -72,6 +72,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Red Ant](https://redant.com.au/jobs/) | Sydney CBD, Sydney | Ruby, Ruby on Rails, JavaScript, Angular
 - [RedBubble](https://careers.redbubble.com/jobs)  | Melbourne CBD; Melbourne  |  Ruby, Ruby on Rails, Go, MySQL, NodeJS, ReactJS
 - [Rockend](https://www.rockend.com/careers) | St Leonards, Sydney | C#, ASP.NET, JavaScript, Angular
+- [Rokt](https://www.rokt.com/careers) | Surry Hills, Sydney | C#, ASP.NET, JavaScript, React, Angular, Go, ML, AWS, Kubernetes, Terraform 
 
 ## S - U
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney CBD, Sydney | GoLang, C++, JavaScript, NodeJs
