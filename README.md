@@ -82,6 +82,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Spaceship](https://www.spaceship.com.au/careers) | Sydney CBD, Sydney | Go, JavaScript, React
 - [Split Payments](https://www.splitpayments.com.au/careers/) | Porter Street, Byron Bay | Ruby, Ruby on Rails, JavaScript, Postgres, Redis, Sidekiq, AWS
 - [SwitchMedia](https://www.switch.tv/careers/) | Sydney CBD, Sydney | PHP, JavaScript, Go
+- [SquareUp](https://careers.squareup.com/) | Melbourne, Sydney | CI/CD, AWS, Data Analyst, DevOps
 - [Tyro](https://www.tyro.com/careers/) | Sydney CBD, Sydney | Java, Scala, Kotlin, Kafka, Spark, AWS
 
 ## V - X
