@@ -98,7 +98,7 @@ Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiri
 
 ## Scrolled this far, good!
 
-If you have come this far you are looking for tech jobs in Australia. Lucky for you, check [AU Tech Jobs](https://app.autechjobs.ml) for tech jobs in Australia from 50+ countries with a focus on work visa sponsorship.
+If you have come this far you are looking for tech jobs in Australia. Lucky for you, check [AU Tech Jobs](https://app.autechjobs.ml) for tech jobs in Australia from 85+ companies with a focus on work visa sponsorship.
 
 If you are looking for tech jobs to relocate to other parts of the world (especially Europe), please do visit [Relocate.me](https://relocate.me). It is a great platform for people looking to relocate with jobs. The country guides in Relocate.me with relocaiton tips and expat stories are very useful.
 
