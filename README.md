@@ -58,7 +58,6 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, JavaScript, AWS
 
 ## M - O
-- [Oliver Wyman Labs](https://tech.labs.oliverwyman.com/ow-join/join-us/) | Sydney CBD, Sydney | Database, SQL, Hadoop, Python, NoSQL
 - [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | JavaScript, React, React Native, NodeJs, Express, GraphQL, AWS
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities) | Sydney CBD, Sydney | C#, C++, Python
 
