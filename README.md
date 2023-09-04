@@ -58,6 +58,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, JavaScript, AWS
 
 ## M - O
+- [Nine](https://www.nineforbrands.com.au/about/careers-at-nine/) | North Sydney, Sydney; Melbourne CBD, Melbourne | React, Postgres, Golang, TypeScript, AWS; 
 - [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | JavaScript, React, React Native, NodeJs, Express, GraphQL, AWS
 - [Optiver](https://www.optiver.com/ap/en/job-opportunities) | Sydney CBD, Sydney | C#, C++, Python
 
