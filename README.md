@@ -3,7 +3,7 @@
 Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email for **certian tech roles** and the **"right"** candidates. 
 
-The Australian Immigration department needs to play serious catchup with the UK Immigration department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tire 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
+The Australian Immigration department needs to play serious catchup with the UK Immigration department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tier 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
 
 Update Jan-2022, a [long list of 70 pages PDF](https://www.righttoknow.org.au/request/6369/response/17729/attach/4/fa%20200600144%20documents%20released.pdf?cookie_passthrough=1) has been found on [Right To know](https://www.righttoknow.org.au/request/list_of_accredited_sponsors) which lists 1000s of companies that have sponsored employees in temporary work visa. This can be a great list to do a reverse job search. Still, some companies might have stopped doing work visa in the past 2 years because of the pandemic.
 
@@ -58,9 +58,10 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, JavaScript, AWS
 
 ## M - O
-- [Nine](https://www.nineforbrands.com.au/about/careers-at-nine/) | North Sydney, Sydney; Melbourne CBD, Melbourne | React, Postgres, Golang, TypeScript, AWS; 
+- [Nine](https://www.nineforbrands.com.au/about/careers-at-nine/) | North Sydney, Sydney; Melbourne CBD, Melbourne | React, Postgres, Golang, TypeScript, AWS;
 - [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | JavaScript, React, React Native, NodeJs, Express, GraphQL, AWS
 - [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Sydney CBD, Sydney | C#, C++, Python
+- [Orica](https://www.orica.com/Careers) | Brisbane; Newcastle; Perth | C#, JavaScript
 
 ## P - R
 - [Papercut Software](https://www.papercut.com/about/life-at-papercut/) | Camberwell, Melbourne | Java, Go, JavaScript, GCP
