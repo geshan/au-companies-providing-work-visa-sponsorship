@@ -54,13 +54,13 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Koala](https://www.linkedin.com/company/koala-mattress/jobs/) | Alexandria, Sydney | Go, PHP, JavaScript, AWS
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, JavaScript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
 - [LegalVision](https://legalvision.com.au/careers/) | Sydney CBD, Sydney | PHP, Laravel, JavaScript, AWS
-- [Lendi](https://lendi.recruiterbox.com/) | Sydney CBD, Sydney | Java, Scala, NodeJs, JavaScript, SQL, Python
+- [Lendi](https://careers.smartrecruiters.com/LendiGroup1) | Sydney CBD, Sydney | Java, Scala, NodeJs, JavaScript, SQL, Python
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, JavaScript, AWS
 
 ## M - O
 - [Nine](https://www.nineforbrands.com.au/about/careers-at-nine/) | North Sydney, Sydney; Melbourne CBD, Melbourne | React, Postgres, Golang, TypeScript, AWS; 
 - [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | JavaScript, React, React Native, NodeJs, Express, GraphQL, AWS
-- [Optiver](https://www.optiver.com/ap/en/job-opportunities) | Sydney CBD, Sydney | C#, C++, Python
+- [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Sydney CBD, Sydney | C#, C++, Python
 
 ## P - R
 - [Papercut Software](https://www.papercut.com/about/life-at-papercut/) | Camberwell, Melbourne | Java, Go, JavaScript, GCP
