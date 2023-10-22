@@ -1,11 +1,11 @@
 # Australian companies providing work visa sponsorship
 
-Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
-The links below are of the career pages not the main company website. Some of the companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email for **certian tech roles** and the **"right"** candidates. 
+Australian companies that provide work visas (and/or relocation) to their employees (mainly tech).
+The links below are for the career pages, not the main company website. Some companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email for **certain tech roles** and the **"right"** candidates. 
 
-The Australian Immigration department needs to play serious catchup with the UK Immigration department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tier 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
+The Australian Immigration Department needs to catch up with the UK Immigration Department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tier 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
 
-Update Jan-2022, a [long list of 70 pages PDF](https://www.righttoknow.org.au/request/6369/response/17729/attach/4/fa%20200600144%20documents%20released.pdf?cookie_passthrough=1) has been found on [Right To know](https://www.righttoknow.org.au/request/list_of_accredited_sponsors) which lists 1000s of companies that have sponsored employees in temporary work visa. This can be a great list to do a reverse job search. Still, some companies might have stopped doing work visa in the past 2 years because of the pandemic.
+Update Jan-2022, a [long list of 70 pages PDF](https://www.righttoknow.org.au/request/6369/response/17729/attach/4/fa%20200600144%20documents%20released.pdf?cookie_passthrough=1) has been found on [Right To know](https://www.righttoknow.org.au/request/list_of_accredited_sponsors) which lists 1000s of companies that have sponsored employees in temporary work visa. This can be a great list to do a reverse job search. Still, some companies might have stopped doing work visas in the past 2 years because of the pandemic.
 
 If you work for a company in Australia that provides visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32). 
 
@@ -101,13 +101,13 @@ Format inspired from [Hiring without whiteboards](https://github.com/poteto/hiri
 
 If you have come this far you are looking for tech jobs in Australia. Lucky for you, check [AU Tech Jobs](https://app.autechjobs.com) for tech jobs in Australia from 85+ companies with a focus on work visa sponsorship.
 
-If you are looking for tech jobs to relocate to other parts of the world (especially Europe), please do visit [Relocate.me](https://relocate.me). It is a great platform for people looking to relocate with jobs. The country guides in Relocate.me with relocaiton tips and expat stories are very useful.
+If you are looking for tech jobs to relocate to other parts of the world (especially Europe), please visit [Relocate.me](https://relocate.me). It is a great platform for people looking to relocate with jobs. The country guides in Relocate.me with relocation tips and expat stories are very useful.
 
 ## Before applying for jobs
 
-Before applying for (tech) jobs in Australia, please do learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires at least 2 years relevant work experience.
+Before applying for (tech) jobs in Australia, please learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires at least 2 years of relevant work experience.
 
-Please do have a look at the [official list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) of skilled occupations to verify that your occupation is in that list. For example, `digital marketing` is not in that list. An easy way to find tech related occupation is search for "ACS" on that page because all tech occupations would be accessed by Australian Computer Society [(ACS)](https://www.acs.org.au/).
+Please have a look at the [official list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) of skilled occupations to verify that your occupation is in that list. For example, `digital marketing` is not on that list. An easy way to find tech-related occupations is to search for "ACS" on that page because all tech occupations would be accessed by the Australian Computer Society [(ACS)](https://www.acs.org.au/).
 
 ## PRs welcome
 
