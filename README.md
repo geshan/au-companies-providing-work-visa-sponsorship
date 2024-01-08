@@ -21,7 +21,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [BigCommerce](https://www.bigcommerce.com/careers/) | Sydney CBD, Sydney |  Ruby, PHP, JavaScript, Puppet
 - [Brighte](https://brighte.com.au/careers/) | Sydney CBD, Sydney | PHP, MYSQL, JavaScript, AWS
 - [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, JavaScript, NodeJs, React, Typescript
-- [ClipChamp](https://clipchamp.com/en/company/careers) | Fortitude Valley, Brisbane | JavaScript, Typescript, Angular, React, Python, C
+- [ClipChamp](https://clipchamp.com/en/work-with-us/) | Fortitude Valley, Brisbane | JavaScript, Typescript, Angular, React, Python, C
 - [CSIRO's Data61](https://jobs.csiro.au/search/?q=data61&locationsearch=) | Brisbane CBD, Brisbane; Canberra CBD, Canberra; Melbourne CBD, Melbourne; Perth CBD, Perth; Sydney CBD, Sydney | Bigdata, C++, Drones, IOT, JavaScript, Machine Learning, Python, R 
 
 ## D - F
@@ -32,7 +32,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Easygo](https://easygo.io/careers/) | Melbourne CBD, Melbourne | JavaScript, NodeJs, React
 - [Elmo](https://elmosoftware.com.au/jobs/) | Sydney CBD, Sydney | PHP, .net, JavaScript, Angular, AWS
 - [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, React
-- [Expedia Group](https://lifeatexpedia.com/jobs?location=Australia) | Brisbane City, Brisbane | JavaScript, AWS, Java, React, Node
+- [Expedia Group](https://careers.expediagroup.com/jobs/?filter[country]=Australia) | Brisbane City, Brisbane | JavaScript, AWS, Java, React, Node
 - [Expert360](https://expert360.com/company/careers) |  Melbourne CBD, Melbourne; Sydney CBD, Sydney | Elixir, JavaScript, React, GraphQL, Elasticsearch 
 - [Finder](https://www.finder.com.au/careers) |  Sydney CBD, Sydney | PHP, JavaScript, NodeJs 
 
@@ -66,7 +66,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## P - R
 - [Papercut Software](https://www.papercut.com/about/life-at-papercut/) | Camberwell, Melbourne | Java, Go, JavaScript, GCP
 - [Pragmateam](https://pragma.team/talent#apply) | Sydney CBD, Sydney | JavaScript, NodeJs, Angular, React
-- [Propeller](https://www.propelleraero.com/jobs/sydney/) | Sydney CBD, Sydney | JavaScript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
+- [Propeller](https://www.propelleraero.com/people/#open-roles) | Sydney CBD, Sydney | JavaScript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
 - [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, JavaScript, NodeJs, postgres
 - [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, JavaScript, NodeJs, Angular, ReactJs
 - [REA Group](https://www.rea-group.com/careers/) | Dulwich, Adelaide; Fortitude Valley, Brisbane; Fyshwick, Canberra; Richmond, Melbourne; Subiaco, Perth; Sydney CBD, Sydney | Scala, Ruby, JavaScript, NodeJs, React, Docker, Elasticsearch, AWS, Big Query
@@ -81,7 +81,6 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Simply Wall St](https://simplywall.st/careers) | Surry Hills, Sydney | JavaScript, Typescript, NodeJS, ReactJs
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney CBD, Sydney | JavaScript, Typescript, NodeJs, Vue, Ruby, GoLang, Java
 - [Spaceship](https://www.spaceship.com.au/careers) | Sydney CBD, Sydney | Go, JavaScript, React
-- [Split Payments](https://www.splitpayments.com.au/careers/) | Porter Street, Byron Bay | Ruby, Ruby on Rails, JavaScript, Postgres, Redis, Sidekiq, AWS
 - [SwitchMedia](https://www.switch.tv/careers/) | Sydney CBD, Sydney | PHP, JavaScript, Go
 - [SquareUp](https://careers.squareup.com/) | Melbourne, Sydney | CI/CD, AWS, Data Analyst, DevOps
 - [Tyro](https://www.tyro.com/careers/) | Sydney CBD, Sydney | Java, Scala, Kotlin, Kafka, Spark, AWS
@@ -91,6 +90,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## Y - \#
 - [Zendesk](https://www.zendesk.com/jobs/melbourne/) | Melbourne CBD, Melbourne | Ruby, Scala, Python, Go, PHP, AWS, GCP, MySQL, Redis, Kafka, ELK, Cassandra, Memcache, Kubernetes, Hadoop, Chef, Terraform
+- [Zepto](https://www.zepto.com.au/careers/) | Porter Street, Byron Bay | Ruby, Ruby on Rails, JavaScript, Postgres, Redis, Sidekiq, AWS
 - [Zip](https://zip.co/careers) | Sydney CBD, Sydney | .net, JavaScript, NodeJs, Angular, Python, AWS
 
 ## Inspired from
