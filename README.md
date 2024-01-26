@@ -39,7 +39,6 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## G - I
 - [GlamCorner](https://www.glamcorner.com.au/opportunities) | Alexandria, Sydney | Ruby, JavaScript, Typescript, React, Docker, Jenkins, AWS, MySQL, Redis, PHP
 - [Harrison.Ai](https://www.harrison.ai/careers) | Sydney CBD, Sydney | JavaScript, Typescript, Python, AWS, React
-- [HeadUp Labs](https://www.headuplabs.com/careers) | Balaclava, Victoria | C#, Azure, Cosmos Db, JavaScript, React Native, Typescript, Azure Functions 
 - [HealthEngine](https://careers.healthengine.com.au/opportunities/) | Perth CBD, Perth; Sydney CBD, Sydney | JavaScript, PHP, NodeJs, React, Symfony/Laravel, Java, Kotlin
 - [Healthshare](https://www.healthsharedigital.com/company/careers/) | Bondi Junction, Sydney | Python, JavaScript, React
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
@@ -67,7 +66,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Papercut Software](https://www.papercut.com/about/life-at-papercut/) | Camberwell, Melbourne | Java, Go, JavaScript, GCP
 - [Pragmateam](https://pragma.team/join-us#roles) | Sydney CBD, Sydney | .NET, Golang, JavaScript, NodeJs, Angular, React
 - [Propeller](https://www.propelleraero.com/people/#open-roles) | Sydney CBD, Sydney | JavaScript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
-- [Quantium](https://www.quantium.com/careers/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, JavaScript, NodeJs, postgres
+- [Quantium](https://thequantiumgroup.hire.trakstar.com/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, JavaScript, NodeJs, postgres
 - [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, JavaScript, NodeJs, Angular, ReactJs
 - [REA Group](https://www.rea-group.com/careers/) | Dulwich, Adelaide; Fortitude Valley, Brisbane; Fyshwick, Canberra; Richmond, Melbourne; Subiaco, Perth; Sydney CBD, Sydney | Scala, Ruby, JavaScript, NodeJs, React, Docker, Elasticsearch, AWS, Big Query
 - [Red Ant](https://redant.com.au/jobs/) | Sydney CBD, Sydney | Ruby, Ruby on Rails, JavaScript, Angular
@@ -105,9 +104,9 @@ If you are looking for tech jobs to relocate to other parts of the world (especi
 
 ## Before applying for jobs
 
-Before applying for (tech) jobs in Australia, please learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream requires at least 2 years of relevant work experience.
+Before applying for (tech) jobs in Australia, please learn about the [visa 482](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482) and the [conditions](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) for lodging the visa. For example, 482 medium-term stream require at least 2 years of relevant work experience.
 
-Please have a look at the [official list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) of skilled occupations to verify that your occupation is in that list. For example, `digital marketing` is not on that list. An easy way to find tech-related occupations is to search for "ACS" on that page because all tech occupations would be accessed by the Australian Computer Society [(ACS)](https://www.acs.org.au/).
+Please look at the [official list](https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list) of skilled occupations to verify that your occupation is in that list. For example, `digital marketing` is not on that list. An easy way to find tech-related occupations is to search for "ACS" on that page because all tech occupations would be accessed by the Australian Computer Society [(ACS)](https://www.acs.org.au/).
 
 ## PRs welcome
 
@@ -117,7 +116,7 @@ Starring the repo is highly recommended :) Thanks!
 
 ## Disclaimer
 
-Most companies in the above list have been pulled in from [StackOverflow Jobs](https://stackoverflow.com/jobs?l=Australia&d=50&u=Km&v=true) search with visa sponsor flag. We don't take any responsibility of these companies sponsoring employees or are still doing so. 
+We don't take any responsibility for these companies sponsoring employees or are still doing so. 
 
 Some companies only sponsor senior roles. Some of the companies have stated they `can` sponsor. So it will depend on how you would approach them, the role and your level of skills and experience. If you think any company above should be removed from the list please send a PR.
  
