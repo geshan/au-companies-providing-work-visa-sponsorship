@@ -7,6 +7,12 @@ The Australian Immigration Department needs to catch up with the UK Immigration 
 
 Update Jan-2022, a [long list of 70 pages PDF](https://www.righttoknow.org.au/request/6369/response/17729/attach/4/fa%20200600144%20documents%20released.pdf?cookie_passthrough=1) has been found on [Right To know](https://www.righttoknow.org.au/request/list_of_accredited_sponsors) which lists 1000s of companies that have sponsored employees in temporary work visa. This can be a great list to do a reverse job search. Still, some companies might have stopped doing work visas in the past 2 years because of the pandemic.
 
+## Important update
+
+Update Mar-2024, The Department of Home Affairs website - [Disclosure logs](https://www.homeaffairs.gov.au/access-and-accountability/freedom-of-information/disclosure-logs/2024) section has lists of [Standard Business Sponsorship](https://www.homeaffairs.gov.au/foi/files/2024/fa-240100298-document-released.PDF) - 3000+ companies, Accredited Sponsors for the Temporary Skill Shortage Visa [part 1](https://www.homeaffairs.gov.au/foi/files/2024/fa-231200584-document-released_Part1.PDF) - 1900+ companies, [part 2](https://www.homeaffairs.gov.au/foi/files/2024/fa-231200584-document-released_Part2.PDF) - 1900+ companies. This will be a gold mine of information if you are looking for employers who have sponsored work visas in the past.
+
+---
+
 If you work for a company in Australia that provides visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32). 
 
 A searchable sort-able and group-able version of the list of companies below is available on [air table](https://airtable.com/shrgB7IeiaGmIkGug/tblimdYn6HhmTYmD3).
