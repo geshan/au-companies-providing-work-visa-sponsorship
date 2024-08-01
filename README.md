@@ -83,7 +83,6 @@ A searchable sort-able and group-able version of the list of companies below is 
 ## S - U
 - [SafetyCulture](https://safetyculture.com/careers/) | Sydney CBD, Sydney | GoLang, C++, JavaScript, NodeJs
 - [Shippit](https://www.shippit.com/careers/) | Sydney CBD, Sydney | Ruby, JavaScript, NodeJs, ReactJs, AWS
-- [Simply Wall St](https://simplywall.st/careers) | Surry Hills, Sydney | JavaScript, Typescript, NodeJS, ReactJs
 - [SiteMinder](https://www.siteminder.com/jobs/) | Sydney CBD, Sydney | JavaScript, Typescript, NodeJs, Vue, Ruby, GoLang, Java
 - [Spaceship](https://www.spaceship.com.au/careers) | Sydney CBD, Sydney | Go, JavaScript, React
 - [SwitchMedia](https://www.switch.tv/careers/) | Sydney CBD, Sydney | PHP, JavaScript, Go
