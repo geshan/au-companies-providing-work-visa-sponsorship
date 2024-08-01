@@ -32,7 +32,6 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## D - F
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, JavaScript, Android, SQL
-- [DigIO](https://digio.com.au/current-opportunities/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, JavaScript, NodeJs, Kubernetes, AWS
 - [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, JavaScript, Nodejs, React, Android, Python, C#, Swift
 - [DriveYello](https://www.driveyello.com/yello-jobs/) | Sydney CBD, Sydney | PHP, JavaScript, NodeJs, React, Python
 - [Easygo](https://easygo.io/careers/) | Melbourne CBD, Melbourne | JavaScript, NodeJs, React
