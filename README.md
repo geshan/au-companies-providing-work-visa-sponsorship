@@ -71,7 +71,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Papercut Software](https://www.papercut.com/about/life-at-papercut/) | Camberwell, Melbourne | Java, Go, JavaScript, GCP
 - [Pragmateam](https://pragma.team/join-us#roles) | Sydney CBD, Sydney | .NET, Golang, JavaScript, NodeJs, Angular, React
 - [Propeller](https://www.propelleraero.com/people/#open-roles) | Sydney CBD, Sydney | JavaScript, NodeJs, Python, Django, React, AWS, Kubernetes, Terraform 
-- [Quantium](https://thequantiumgroup.hire.trakstar.com/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, JavaScript, NodeJs, postgres
+- [Quantium](https://quantium.elmotalent.com.au/careers/external/jobs) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Java, Scala, JavaScript, NodeJs, postgres
 - [Qwilr](https://qwilr.com/jobs/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | MongoDB, JavaScript, NodeJs, Angular, ReactJs
 - [REA Group](https://www.rea-group.com/careers/) | Dulwich, Adelaide; Fortitude Valley, Brisbane; Fyshwick, Canberra; Richmond, Melbourne; Subiaco, Perth; Sydney CBD, Sydney | Scala, Ruby, JavaScript, NodeJs, React, Docker, Elasticsearch, AWS, Big Query
 - [Red Ant](https://redant.com.au/jobs/) | Sydney CBD, Sydney | Ruby, Ruby on Rails, JavaScript, Angular
