@@ -33,7 +33,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Deputy](https://www.deputy.com/au/careers) | Sydney CBD, Sydney |  PHP, JavaScript, Android, SQL
 - [Domain Group](https://domaingroup.csod.com/ux/ats/careersite/4/home?c=domaingroup) | Sydney CBD, Sydney | PHP, JavaScript, Nodejs, React, Android, Python, C#, Swift
 - [DriveYello](https://www.driveyello.com/yello-jobs/) | Sydney CBD, Sydney | PHP, JavaScript, NodeJs, React, Python
-- [Easygo](https://easygo.io/careers/) | Melbourne CBD, Melbourne | JavaScript, NodeJs, React
+- [Easygo](https://easygo.io/pages/careers/) | Melbourne CBD, Melbourne | JavaScript, NodeJs, React
 - [Elmo](https://elmosoftware.com.au/jobs/) | Sydney CBD, Sydney | PHP, .net, JavaScript, Angular, AWS
 - [Envato](https://envato.com/careers/) | Melbourne CBD, Melbourne | Ruby, Ruby on Rails, NodeJs, Elixir, React
 - [Expedia Group](https://careers.expediagroup.com/jobs/?filter[country]=Australia) | Brisbane City, Brisbane | JavaScript, AWS, Java, React, Node
