@@ -62,7 +62,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 
 ## M - O
 - [Nine](https://www.nineforbrands.com.au/about/careers-at-nine/) | North Sydney, Sydney; Melbourne CBD, Melbourne | React, Postgres, Golang, TypeScript, AWS;
-- [Oppizi](https://www.oppizi.com/jobs/) | Sydney CBD, Sydney | JavaScript, React, React Native, NodeJs, Express, GraphQL, AWS
+- [Oppizi](https://jobs.oppizi.com/) | Sydney CBD, Sydney | JavaScript, React, React Native, NodeJs, Express, GraphQL, AWS
 - [Optiver](https://optiver.com/working-at-optiver/career-opportunities/) | Sydney CBD, Sydney | C#, C++, Python
 - [Orica](https://www.orica.com/Careers) | Brisbane; Newcastle; Perth | C#, JavaScript
 
