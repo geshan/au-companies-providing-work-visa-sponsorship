@@ -58,6 +58,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Learnosity](https://learnosity.com/company/careers/) | Sydney CBD, Sydney | PHP, Go, JavaScript, MySQL, PostgreSQL, ElasticSearch, Redshift, AWS
 - [LegalVision](https://legalvision.com.au/careers/) | Sydney CBD, Sydney | PHP, Laravel, JavaScript, AWS
 - [Lendi](https://careers.smartrecruiters.com/LendiGroup1) | Sydney CBD, Sydney | Java, Scala, NodeJs, JavaScript, SQL, Python
+- [Linktree](https://linktr.ee/s/about/careers) | Melbourne CBD, Melbourne | Typescript, PHP, NodeJs, React, PostgreSQL, GraphQL, AWS (S3, EventBridge, SQS, Lambdas, ECS, CDK)
 - [Local Measure](https://www.localmeasure.com/company/careers) | Sydney CBD, Sydney | Python, Mongo, JavaScript, AWS
 
 ## M - O
