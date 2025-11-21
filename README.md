@@ -3,9 +3,9 @@
 Australian companies that provide work visas (and/or relocation) to their employees (mainly tech).
 The links below are for the career pages, not the main company website. Some companies listed below have mentioned visa sponsorship/relocation on StackOverflow jobs or communicated over email for **certain tech roles** and the **"right"** candidates. 
 
-The Australian Immigration Department needs to catch up with the UK Immigration Department. UK one has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tier 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
+The Australian Immigration Department needs to catch up with the UK Immigration Department. The UK has an [official public list](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) of thousands (last count ~30K) that can sponsor people. [Tier 2](https://www.gov.uk/tier-2-general) visa is the skilled job one. 
 
-Update Jan-2022, a [long list of 70 pages PDF](https://www.righttoknow.org.au/request/6369/response/17729/attach/4/fa%20200600144%20documents%20released.pdf?cookie_passthrough=1) has been found on [Right To know](https://www.righttoknow.org.au/request/list_of_accredited_sponsors) which lists 1000s of companies that have sponsored employees in temporary work visa. This can be a great list to do a reverse job search. Still, some companies might have stopped doing work visas in the past 2 years because of the pandemic.
+Update Jan-2025, a [long list of 584 pages PDF](https://www.righttoknow.org.au/request/13476/response/43779/attach/3/da%20250800358%20document%20released.pdf?cookie_passthrough=1) has been found on [Right To know](https://www.righttoknow.org.au/request/list_of_all_accredited_australia#incoming-40799), which lists 1000s of companies that have sponsored employees in a temporary work visa. This can be a great list to do a reverse job search. Still, some companies might have stopped applying for work visas over the past years due to the pandemic.
 
 ## Important update
 
@@ -15,7 +15,7 @@ Update Mar-2024, The Department of Home Affairs website - [Disclosure logs](http
 
 If you work for a company in Australia that provides visa sponsorship to its employees, please add your employer as a PR. Here is an example [PR](https://github.com/geshan/au-companies-providing-work-visa-sponsorship/pull/32). 
 
-A searchable sort-able and group-able version of the list of companies below is available on [air table](https://airtable.com/shrgB7IeiaGmIkGug/tblimdYn6HhmTYmD3).
+A searchable, sortable, and groupable version of the list of companies below is available on [Airtable](https://airtable.com/shrgB7IeiaGmIkGug/tblimdYn6HhmTYmD3).
 
 ---
 
